@@ -1,0 +1,11 @@
+//Hello world in cpp
+
+#inlcude<iostream>
+
+int main(int argc, char* argv[])
+{
+
+  std::cout << "Hello world!" << endl;
+
+  return 0;
+}
